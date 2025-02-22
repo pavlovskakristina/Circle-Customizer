@@ -1,0 +1,29 @@
+# Circle Customizer
+
+## Description
+This project is a Python-based application that combines Tkinter and the Turtle graphics library.
+It allows users to input custom parameters (specifically degrees of rotation) to create unique, colorful circle patterns using Turtle.
+
+
+The application first opens a user-friendly graphical interface where the user inputs the desired degree increment for drawing circles.
+Upon submission, the Turtle window opens and generates vibrant, randomized color patterns based on the given parameter.
+
+## Features
+- **Interactive GUI**: Simple and intuitive interface built using Tkinter.
+- **Custom Parameters**: Users can input custom degrees of rotation for drawing circles.
+- **Randomized Colors**: Generates circles with random RGB colors, resulting in unique and artistic designs every time.
+- **Easy to Use**: Just enter a number and click to instantly see your colorful creation.
+
+## Requirements
+- Python 3.x
+- Standard Python libraries: `turtle`, `tkinter`, and `random` (all included in Python standard distribution)
+
+## Example
+- If you input "5", the Turtle will draw circles rotating 5 degrees at a time, creating a complete and symmetrical colorful pattern.
+
+## Screenshots
+_(Optional: Include screenshots of the GUI and generated patterns here.)_
+
+
+
+
