@@ -21,9 +21,13 @@ Upon submission, the Turtle window opens and generates vibrant, randomized color
 ## Example
 - If you input "5", the Turtle will draw circles rotating 5 degrees at a time, creating a complete and symmetrical colorful pattern.
 
-## Screenshots
-_(Optional: Include screenshots of the GUI and generated patterns here.)_
 
+
+### Demo GIF
+![Demo Animation](project.gif)
+
+### Widget Screenshot
+![Circle Customizer Screenshot](widget.png)
 
 
 
