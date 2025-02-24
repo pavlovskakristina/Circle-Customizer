@@ -15,8 +15,9 @@ Simply choose the degree increments, click a button, and watch as mesmerizing, c
 
 _Include your own images and GIF here:_
 
-- **Screenshot**: `widget.png`
-- **Animation GIF**: `project.gif`
+![Screenshot](widget.png)
+![Animation GIF](project.gif)
+
 
 ## 🔧 Requirements
 - Python 3.x
